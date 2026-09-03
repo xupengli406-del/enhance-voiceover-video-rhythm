@@ -1,0 +1,4 @@
+interface:
+  display_name: "克制增强口播视频网感"
+  short_description: "选择性使用强调、蒙版与关键帧，提升口播视频节奏但保持稳定可读"
+  default_prompt: "Use $enhance-voiceover-video-rhythm to make this voiceover video feel more native and engaging without becoming noisy."
